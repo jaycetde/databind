@@ -8,7 +8,9 @@
     
 ## API
 
-  databind(obj, 'prop', document.body, function (v) { return 'template containing ' + v; });
+```javascript
+databind(obj, 'prop', document.body, function (v) { return 'template containing ' + v; });
+```
   
 ## License
 
