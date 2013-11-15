@@ -1,0 +1,11 @@
+{
+    "name": "databind",
+    "repo": "JayceTDE/databind",
+    "version": "0.0.1",
+    "description": "Bind an object's property to an HTML Element",
+    "scripts": ["index.js"],
+    "dependencies": {
+        "component/value": "*"
+    },
+    "license": "MIT"
+}
